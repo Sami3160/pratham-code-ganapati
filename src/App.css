@@ -1,0 +1,11 @@
+* {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  /* background-color: black; */
+  background: #540054;
+background: -webkit-linear-gradient(to right, #540054, #bf4193);
+background: linear-gradient(to right, #540054, #bf4193);
+background: radial-gradient(circle at bottom, navy 0, black 100%);
+}
